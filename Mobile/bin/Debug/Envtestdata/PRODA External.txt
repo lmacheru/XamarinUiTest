@@ -1,0 +1,24 @@
+contarctLimitlessVoic,0828743247
+contractUsername,0828718100
+env,LIVE PROD
+Exectype,Local
+GlobalPassword,Testing1
+HybridPassword,Testing1
+Hybridusername,0828717422
+HybridUsername1,0828717337
+LegacyContractUsername,0828716322
+nxllvlGiftusername,0828904447
+nxtLvlContractUsername,0637758906
+nxtlvlpassword,Testing1
+nxtlvlusername,0648419577
+otpbypassnum,0715135502
+Prepaidpassword,Testing1
+prepaidusername,0828718662
+prepaidUsername1,0828718662
+PrepaidUsername2,0828718662
+usedpin,952789378178
+newpin,811135107072
+linkedNumberUsername,0826105483
+forgetpassnum,0828705152
+nonmahbuybunnum,0828716485
+contbundleusername,0828717233

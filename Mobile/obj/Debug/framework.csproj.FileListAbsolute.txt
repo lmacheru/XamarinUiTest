@@ -1,0 +1,11 @@
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\bin\Debug\framework.dll
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\bin\Debug\framework.pdb
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\bin\Debug\nunit.framework.dll
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\bin\Debug\Xamarin.UITest.dll
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\bin\Debug\Xamarin.UITest.xml
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\bin\Debug\nunit.framework.xml
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\obj\Debug\Mobile.Properties.Resources.resources
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\obj\Debug\framework.csproj.GenerateResource.Cache
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\obj\Debug\framework.csproj.CoreCompileInputs.cache
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\obj\Debug\framework.dll
+C:\Scripts\Veri 9.5\VodaiOSPRODLocal\VodaiOS\obj\Debug\framework.pdb
